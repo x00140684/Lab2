@@ -1,0 +1,6 @@
+run
+compile
+exit
+run
+sbt
+run
